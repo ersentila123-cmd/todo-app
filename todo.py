@@ -1,6 +1,6 @@
 ## Simple To-Do List App
 ## Author: Esentila
-## Description: A command-line task manager built with Python
+## Description: A command-line task manager built with Python v1.0
 
 tasks = []
 
